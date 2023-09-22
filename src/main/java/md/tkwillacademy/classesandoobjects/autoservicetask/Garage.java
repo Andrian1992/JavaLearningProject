@@ -1,9 +1,9 @@
 package md.tkwillacademy.classesandoobjects.autoservicetask;
 
 public class Garage {
-    String address;
+    public String address;
 
-    float surfaceM2;
+    public float surfaceM2;
 
-    int capacity
+    public int capacity;
 }
